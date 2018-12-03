@@ -1,4 +1,4 @@
-# Suggested order of topics
+# Suggested order of topics on Python
 
 1. Introduction to Python
 2. Data structures
