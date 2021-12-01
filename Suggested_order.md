@@ -10,7 +10,4 @@
 8. Numpy
 9. SciPy
 10. SymPy
-11. Pandas-1
-12. Pandas-2
-13. Pandas-3
-14. Pandas-4
+11. Pandas
