@@ -6,8 +6,8 @@
 4. Functions
 5. Strings and regular expressions
 6. Basics of object-oriented programming
-7. Debugging and profiling
-8. Numpy
-9. SciPy
-10. SymPy
-11. Pandas
+7. Numpy
+8. Pandas
+9. Debugging and profiling (optional)
+10. SciPy
+11. SymPy
