@@ -9,6 +9,6 @@
 7. Numpy
 8. Pandas
 9. Databases
-10. Debugging and profiling (optional)
-11. SciPy
-12. SymPy
+10. SciPy
+11. SymPy
+12. Debugging and profiling (optional, anywhere after OOP)
